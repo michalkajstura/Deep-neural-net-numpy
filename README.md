@@ -1,0 +1,2 @@
+# deep-neural-net
+Neural network designed to predict handwritten digits from MNIST dataset. Network is based of Angrew Ng's Coursera course and Stanford's CS231n winter 2016 course teached by Andriej Karpathy. Besides basic operations the network uses techniques like dropout, batchnorm and Xavier initialization. Alongside with deep neural network class this repository provides helpful functions like gradient checking and hyperparameter search.
